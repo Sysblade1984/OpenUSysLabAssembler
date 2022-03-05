@@ -1,0 +1,4 @@
+Error: in line 27, invalid or extraneous operand: *r1
+Error: in line 30, missing or wrong type of argument:("*int")
+Error: in line 33, missing or wrong type of argument:("*42")
+Error: in line 36, invalid or extraneous operand: *r4

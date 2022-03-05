@@ -1,0 +1,38 @@
+Error: in line 18, too few parameters.
+Error: in line 21, too few parameters.
+Error: in line 24, too few parameters.
+Error: in line 30, invalid or extraneous operand: #6
+Error: in line 36, invalid or extraneous operand: #50
+Error: in line 39, non-existant opcode. (and)
+Error: in line 42, non-existant opcode. (jSr)
+Error: in line 48, unexpected expression: r3
+Error: in line 54, missing or wrong type of argument:("48")
+Error: in line 60, operand of this type must include decimals only. (#r3)
+Error: in line 60, missing or wrong type of argument:("#r3")
+Error: in line 63, label already exists. (Next:)
+Error: in line 69, invalid or extraneous operand: r3
+Error: in line 72, invalid or extraneous operand: #3
+Error: in line 75, invalid or extraneous operand: Start
+Error: in line 84, .data operand size beyond limits
+Error: in line 102, .data operands can be be integers only, negatives with single minus sign.
+Error: in line 105, .data operands can be be integers only, negatives with single minus sign.
+Error: in line 108, .data operands can be be integers only, negatives with single minus sign.
+Error: in line 111, label can not be reserved word, too long or start with non-alphabetical.
+Error: in line 114, label can not be reserved word, too long or start with non-alphabetical.
+Error: in line 117, label already exists. (DATA1:)
+Error: in line 123, label can not be reserved word, too long or start with non-alphabetical.
+Error: in line 132, external label already defined as internal. (Start)
+Error: in line 144, non-existant opcode. (DATA2)
+Error: in line 147, non-existant opcode. (.DATA)
+Error: in line 153: .string parameter invalid ("blabla")
+Error: in line 156: .string parameter invalid (""abcdefg"blabla")
+Error: in line 159: .string parameter invalid (""abc")
+Error: in line 162, label can not be reserved word, too long or start with non-alphabetical.
+Error: in line 165: missing .data operand.
+Error: in line 168: missing .entry operand.
+Error: in line 171, non-existant opcode. (.invalid)
+Error: in line 177, invalid or extraneous operand: Next
+Error: "r1blabla" is a call to neither internal or external label!
+Error: .entry label can not be external. (DATA4)
+Error: .entry label can not be external. (DATA4)
+Error: call to non-existent label "DATA4"
